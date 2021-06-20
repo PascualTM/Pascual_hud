@@ -2,11 +2,9 @@ fx_version 'cerulean'
 
 game { 'gta5' }
 
-lua54 'yes'
-
 version '2.0.2'
 
-description 'Standalone hud created by Project Entity'
+description 'Hud libre'
 
 client_scripts {
 	'config/config_cl.lua',
